@@ -31,4 +31,6 @@ Open your favorite browser and visit the newly created app.
 5. Mark a post as published/unpublished
 
 ## Demo
+```
 https://www.youtube.com/watch?v=VrDXEECXkNU
+```
